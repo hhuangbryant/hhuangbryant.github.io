@@ -6,4 +6,5 @@
 <br>[A8](assignment8.html)
 <br>[A9](Assignment9.html)
 <br>[A10](A10.html)
-<br>[midterm part 1](Mpart1.html)
+<br>[midterm visualization](Mpart1.html) 
+<br>[midterm predictive model](Mpart2.html)
